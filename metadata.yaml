@@ -1,0 +1,33 @@
+_repo: Simon-Dale_20328
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hope, Anthony
+    alias: Hawkins, Anthony Hope
+    birthdate: 1863
+    deathdate: 1933
+    gutenberg_agent_id: '63'
+    url: http://www.gutenberg.org/2009/agents/63
+    wikipedia: http://en.wikipedia.org/wiki/Anthony_Hope
+description: The hero of this captivating historical romance is a country youth of
+  whom it has been prophesied that he would love where the king loved and drink of
+  the king's cup. The hero is called to court and placed in the service of the ambitious
+  Duke of Monmouth. Love, intrigue, and marriage follow, but will the prophecy be
+  fulfilled?
+gutenberg_bookshelf: Bestsellers, American, 1895-1923
+gutenberg_issued: '2007-01-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20328'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- History -- Charles II, 1660-1685 -- Fiction'
+- !lcc 'PR'
+title: Simon Dale
+url: http://www.gutenberg.org/ebooks/20328
